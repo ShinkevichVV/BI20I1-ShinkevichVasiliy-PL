@@ -1,0 +1,3 @@
+﻿  labSIB2.cpp
+C:\Users\Sneakerfallich\source\repos\labSIB2\labSIB2\labSIB2.cpp(9): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  labSIB2.vcxproj -> C:\Users\Sneakerfallich\source\repos\labSIB2\Debug\labSIB2.exe
