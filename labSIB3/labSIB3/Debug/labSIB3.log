@@ -1,0 +1,4 @@
+﻿  labSIB3.cpp
+C:\Users\Sneakerfallich\Desktop\Visual\labSIB3\labSIB3\labSIB3.cpp(12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Sneakerfallich\Desktop\Visual\labSIB3\labSIB3\labSIB3.cpp(8): warning C4101: z: неиспользованная локальная переменная
+  labSIB3.vcxproj -> C:\Users\Sneakerfallich\Desktop\Visual\labSIB3\Debug\labSIB3.exe
