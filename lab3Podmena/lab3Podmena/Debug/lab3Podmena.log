@@ -1,0 +1,5 @@
+﻿  lab3Podmena.cpp
+C:\Users\study\source\repos\lab3Podmena\lab3Podmena\lab3Podmena.cpp(8,6): warning C4101: f: неиспользованная локальная переменная
+C:\Users\study\source\repos\lab3Podmena\lab3Podmena\lab3Podmena.cpp(7,12): warning C4101: x: неиспользованная локальная переменная
+C:\Users\study\source\repos\lab3Podmena\lab3Podmena\lab3Podmena.cpp(7,9): warning C4101: j: неиспользованная локальная переменная
+  lab3Podmena.vcxproj -> C:\Users\study\source\repos\lab3Podmena\Debug\lab3Podmena.exe
