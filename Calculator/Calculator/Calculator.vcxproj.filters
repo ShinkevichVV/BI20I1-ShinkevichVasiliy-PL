@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\source\Action.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Calculator.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Division.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Minus.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\multiplication.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Number1.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Number2.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Plus.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Pow.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Scan.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\ScanDivision.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\ScanMultiplication.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\ShowResult.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Trans.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\ScanPow.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\h\Action.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\h\Division.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\h\Minus.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\h\Multiplication.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\h\Number1.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\h\Number2.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\h\Plus.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\h\Scan.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\h\ScanDivision.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\h\ScanMultiplication.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\h\ShowResult.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\h\Trans.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\Pow.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\ScanPow.h">
+      <Filter>source</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

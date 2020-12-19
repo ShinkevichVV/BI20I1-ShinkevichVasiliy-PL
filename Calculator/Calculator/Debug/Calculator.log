@@ -1,0 +1,3 @@
+﻿  Pow.cpp
+C:\Users\7IL7\source\repos\Calculator\source\Pow.cpp(23,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Calculator.vcxproj -> C:\Users\7IL7\source\repos\Calculator\Debug\Calculator.exe
